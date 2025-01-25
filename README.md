@@ -30,7 +30,7 @@ Stay connected and join our mission to inspire and empower developers:
 - Join on [Discord](https://discord.gg/w44XPXAh).
 
 ## ✨ Contributions Welcome!
-We encourage you to contribute to our projects or share your own. Check out our [Contributing Guidelines](Contributon.md) for more details.
+We encourage you to contribute to our projects or share your own. Check out our [Contributing Guidelines](Contribution.md) for more details.
 
 ## 🙌 Contact Us
 If you have any questions or suggestions, feel free to reach out to us via email: **info@mechimavericks.tech**.
