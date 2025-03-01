@@ -27,7 +27,7 @@ Stay connected and join our mission to inspire and empower developers:
 - Visit our [official website](https://mechimavericks.tech).
 - Follow us on [LinkedIn](https://www.linkedin.com/company/mechi-mavericks).
 - Follow us on [Facebook](https://www.facebook.com/mechimavericks).
-- Join on [Discord](https://discord.gg/w44XPXAh).
+- Join on [Discord](https://discord.gg/GHcKXBeS).
 
 ## ✨ Contributions Welcome!
 We encourage you to contribute to our projects or share your own. Check out our [Contributing Guidelines](Contribution.md) for more details.
